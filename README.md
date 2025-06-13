@@ -6,3 +6,5 @@ This script runs through Wikipedia pages listing ghost town coordinates in a par
 The script generates the contents of a KML file that can be uploaded to Google Maps to plot. I am using a temp file because the path was not writable for me. It outputs a link to the temp KML file, which you can open and then manually save to your computer. Then go to My Google Maps, and import the KML file.
 
 If the KML file link isn't working, just change the script to print the KML contents, then copy and paste into a text file, and save as .kml
+
+An example KML file is included of the ghost town list in CO.
