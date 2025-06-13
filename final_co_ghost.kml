@@ -1,0 +1,1405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1613">
+        <Placemark id="1615">
+            <name>Unnamed Town</name>
+            <description>Status: Unknown</description>
+            <Point id="1614">
+                <coordinates>-105.5478,38.9972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1617">
+            <name>Abbeyville</name>
+            <description>Status: Few remains.</description>
+            <Point id="1616">
+                <coordinates>-106.4922,38.7775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1619">
+            <name>Aberdeen</name>
+            <description>Status: Little remains.</description>
+            <Point id="1618">
+                <coordinates>-106.9869,38.4503,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1621">
+            <name>Abeyta</name>
+            <description>Status: </description>
+            <Point id="1620">
+                <coordinates>-104.1864,37.0797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1623">
+            <name>Able</name>
+            <description>Status: </description>
+            <Point id="1622">
+                <coordinates>-102.8696,38.0606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1625">
+            <name>Adelaide</name>
+            <description>Status: Little remains.</description>
+            <Point id="1624">
+                <coordinates>-105.0908,38.56,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1627">
+            <name>Adelaide</name>
+            <description>Status: Little remains.</description>
+            <Point id="1626">
+                <coordinates>-106.2581,39.2472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1629">
+            <name>Adena</name>
+            <description>Status: School and chapel remain.</description>
+            <Point id="1628">
+                <coordinates>-103.8866,40.0083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1631">
+            <name>Alder</name>
+            <description>Status: Little remains.</description>
+            <Point id="1630">
+                <coordinates>-106.0395,38.3694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1633">
+            <name>Alice</name>
+            <description>Status: Summer cabins</description>
+            <Point id="1632">
+                <coordinates>-105.6428,39.8183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1635">
+            <name>Alpine</name>
+            <description>Status: Some residents remain.</description>
+            <Point id="1634">
+                <coordinates>-106.277,38.7111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1637">
+            <name>Alta</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1636">
+                <coordinates>-107.8528,37.8864,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1639">
+            <name>Altman</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1638">
+                <coordinates>-105.1339,38.7361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1641">
+            <name>Amache</name>
+            <description>Status: National Historic Site</description>
+            <Point id="1640">
+                <coordinates>-102.3286,38.0496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1643">
+            <name>Ames</name>
+            <description>Status: Power plant still in operation.</description>
+            <Point id="1642">
+                <coordinates>-107.8823,37.8647,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1645">
+            <name>Animas City</name>
+            <description>Status: Animas City Park</description>
+            <Point id="1644">
+                <coordinates>-107.8713,37.3017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1647">
+            <name>Animas Forks</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1646">
+                <coordinates>-107.5714,37.9311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1649">
+            <name>Antero Junction</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1648">
+                <coordinates>-105.9653,38.9233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1651">
+            <name>Apex</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1650">
+                <coordinates>-105.5702,39.8656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1653">
+            <name>Arapahoe City</name>
+            <description>Status: Historical marker nearGolden</description>
+            <Point id="1652">
+                <coordinates>-105.1783,39.775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1655">
+            <name>Arastra</name>
+            <description>Status: </description>
+            <Point id="1654">
+                <coordinates>-107.607,37.7928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1657">
+            <name>Ashcroft</name>
+            <description>Status: National Register Historic Place</description>
+            <Point id="1656">
+                <coordinates>-106.7998,39.0536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1659">
+            <name>Auraria</name>
+            <description>Status: Historical parkandDenver neighborhood</description>
+            <Point id="1658">
+                <coordinates>-105.0052,39.7428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1661">
+            <name>Autobees Plaza</name>
+            <description>Status: Little remains.</description>
+            <Point id="1660">
+                <coordinates>-104.2872,38.21,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1663">
+            <name>Axial</name>
+            <description>Status: </description>
+            <Point id="1662">
+                <coordinates>-107.792,40.2853,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1665">
+            <name>Badito</name>
+            <description>Status: Ruins remain.</description>
+            <Point id="1664">
+                <coordinates>-105.0142,37.7272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1667">
+            <name>Bakerville</name>
+            <description>Status: Foundations remain.</description>
+            <Point id="1666">
+                <coordinates>-105.805,39.6914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1669">
+            <name>Baldwin</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1668">
+                <coordinates>-107.0478,38.7639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1671">
+            <name>Balzac</name>
+            <description>Status: </description>
+            <Point id="1670">
+                <coordinates>-103.4713,40.4069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1673">
+            <name>Belden</name>
+            <description>Status: Little remains.</description>
+            <Point id="1672">
+                <coordinates>-106.3861,39.5255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1675">
+            <name>Bent's Fort</name>
+            <description>Status: National Historic Site</description>
+            <Point id="1674">
+                <coordinates>-103.4294,38.0406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1677">
+            <name>Berwind</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1676">
+                <coordinates>-104.6183,37.3084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1679">
+            <name>Beshoar</name>
+            <description>Status: </description>
+            <Point id="1678">
+                <coordinates>-104.4066,37.2181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1681">
+            <name>Bijou Basin</name>
+            <description>Status: Little remains.</description>
+            <Point id="1680">
+                <coordinates>-104.4569,39.1356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1683">
+            <name>Bloom</name>
+            <description>Status: </description>
+            <Point id="1682">
+                <coordinates>-103.9566,37.6875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1685">
+            <name>Boggsville</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1684">
+                <coordinates>-103.2127,38.0417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1687">
+            <name>Bonanza</name>
+            <description>Status: Town government reactivated</description>
+            <Point id="1686">
+                <coordinates>-106.1422,38.2947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1689">
+            <name>Boston</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1688">
+                <coordinates>-102.3776,37.2636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1691">
+            <name>Brodhead</name>
+            <description>Status: Little remains.</description>
+            <Point id="1690">
+                <coordinates>-104.6764,37.4108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1693">
+            <name>Buckingham</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1692">
+                <coordinates>-103.9777,40.6214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1695">
+            <name>Buckskin Joe</name>
+            <description>Status: Buildings removed.</description>
+            <Point id="1694">
+                <coordinates>-105.3269,38.4764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1697">
+            <name>Caddoa</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1696">
+                <coordinates>-102.966,38.0478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1699">
+            <name>Calcite</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1698">
+                <coordinates>-105.8872,38.4361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1701">
+            <name>California Ranch</name>
+            <description>Status: Historic marker atFranktown</description>
+            <Point id="1700">
+                <coordinates>-104.7526,39.3892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1703">
+            <name>Calumet</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1702">
+                <coordinates>-104.8597,37.6928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1705">
+            <name>Cameo</name>
+            <description>Status: Little remains.</description>
+            <Point id="1704">
+                <coordinates>-108.3209,39.1486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1707">
+            <name>Camp Hale</name>
+            <description>Status: National Monument</description>
+            <Point id="1706">
+                <coordinates>-106.3228,39.443,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1709">
+            <name>Capitol City</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1708">
+                <coordinates>-107.4667,38.0072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1711">
+            <name>Carbonate</name>
+            <description>Status: Town government reactivated</description>
+            <Point id="1710">
+                <coordinates>-107.3467,39.743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1713">
+            <name>Caribou</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1712">
+                <coordinates>-105.5786,39.9808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1715">
+            <name>Carpenter</name>
+            <description>Status: Little remains.</description>
+            <Point id="1714">
+                <coordinates>-108.4733,39.1944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1717">
+            <name>Carson</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1716">
+                <coordinates>-107.3623,37.8691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1719">
+            <name>Chandler</name>
+            <description>Status: </description>
+            <Point id="1718">
+                <coordinates>-105.2005,38.3731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1721">
+            <name>Chattanooga</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1720">
+                <coordinates>-107.7253,37.8736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1723">
+            <name>Chivington</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1722">
+                <coordinates>-102.5435,38.4364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1725">
+            <name>Clarkville</name>
+            <description>Status: </description>
+            <Point id="1724">
+                <coordinates>-102.626,40.395,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1727">
+            <name>Climax</name>
+            <description>Status: Removed forClimax molybdenum mine</description>
+            <Point id="1726">
+                <coordinates>-106.1836,39.3689,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1729">
+            <name>Coalmont</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1728">
+                <coordinates>-106.4445,40.5625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1731">
+            <name>Columbine</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1730">
+                <coordinates>-106.9659,40.8541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1733">
+            <name>Corona</name>
+            <description>Status: Foundations remain.</description>
+            <Point id="1732">
+                <coordinates>-105.6853,39.9344,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1735">
+            <name>Crystal</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1734">
+                <coordinates>-107.1012,39.0592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1737">
+            <name>Dallas</name>
+            <description>Status: Little remains.</description>
+            <Point id="1736">
+                <coordinates>-107.7448,38.1833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1739">
+            <name>Dayton</name>
+            <description>Status: Site inTwin Lakes CDP</description>
+            <Point id="1738">
+                <coordinates>-106.382,39.0828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1741">
+            <name>Dearfield</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1740">
+                <coordinates>-104.2594,40.2905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1743">
+            <name>Delagua</name>
+            <description>Status: </description>
+            <Point id="1742">
+                <coordinates>-104.663,37.34,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1745">
+            <name>Delcarbon</name>
+            <description>Status: </description>
+            <Point id="1744">
+                <coordinates>-104.8769,37.7125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1747">
+            <name>Dick</name>
+            <description>Status: </description>
+            <Point id="1746">
+                <coordinates>-104.9372,40.0314,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1749">
+            <name>Duncan</name>
+            <description>Status: Duncan Cabinpreserved</description>
+            <Point id="1748">
+                <coordinates>-105.6145,37.8742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1751">
+            <name>Dutchtown</name>
+            <description>Status: Site inRocky Mountain National Park</description>
+            <Point id="1750">
+                <coordinates>-105.8817,40.4378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1753">
+            <name>Dyersville</name>
+            <description>Status: Some frames remain.</description>
+            <Point id="1752">
+                <coordinates>-105.9839,39.4205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1755">
+            <name>Eastdale</name>
+            <description>Status: </description>
+            <Point id="1754">
+                <coordinates>-105.6508,37.0286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1757">
+            <name>Eastonville</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1756">
+                <coordinates>-104.5622,39.0611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1759">
+            <name>Edgerton</name>
+            <description>Status: </description>
+            <Point id="1758">
+                <coordinates>-104.8359,38.9606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1761">
+            <name>Eldora</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1760">
+                <coordinates>-105.5639,39.9486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1763">
+            <name>Elkton</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1762">
+                <coordinates>-107.0334,38.9636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1765">
+            <name>Elkton</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1764">
+                <coordinates>-105.1505,38.7222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1767">
+            <name>Eureka</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1766">
+                <coordinates>-107.5651,37.8797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1769">
+            <name>Floresta</name>
+            <description>Status: Little remains.</description>
+            <Point id="1768">
+                <coordinates>-107.1228,38.8419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1771">
+            <name>Fondis</name>
+            <description>Status: </description>
+            <Point id="1770">
+                <coordinates>-104.3472,39.2158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1773">
+            <name>Franceville</name>
+            <description>Status: </description>
+            <Point id="1772">
+                <coordinates>-104.5948,38.8066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1775">
+            <name>Frankstown</name>
+            <description>Status: Nothing remains.</description>
+            <Point id="1774">
+                <coordinates>-104.7614,39.4327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1777">
+            <name>Fulford</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1776">
+                <coordinates>-106.6564,39.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1779">
+            <name>Garo</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1778">
+                <coordinates>-105.8903,39.1078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1781">
+            <name>Gato</name>
+            <description>Status: </description>
+            <Point id="1780">
+                <coordinates>-107.1973,37.045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1783">
+            <name>Geneva City</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1782">
+                <coordinates>-105.8132,39.5739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1785">
+            <name>Gillett</name>
+            <description>Status: Little remains.</description>
+            <Point id="1784">
+                <coordinates>-105.1228,38.7819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1787">
+            <name>Gilman</name>
+            <description>Status: Company townlargely intact</description>
+            <Point id="1786">
+                <coordinates>-106.3939,39.5328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1789">
+            <name>Gold Park</name>
+            <description>Status: </description>
+            <Point id="1788">
+                <coordinates>-106.4394,39.4014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1791">
+            <name>Goldfield</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1790">
+                <coordinates>-105.1261,38.7178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1793">
+            <name>Gothic</name>
+            <description>Status: Rocky Mountain Biological Laboratory</description>
+            <Point id="1792">
+                <coordinates>-106.9898,38.9592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1795">
+            <name>Graysill Mines</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1794">
+                <coordinates>-107.8986,37.7128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1797">
+            <name>Guston</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1796">
+                <coordinates>-107.6903,37.9164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1799">
+            <name>Hancock</name>
+            <description>Status: Little remains.</description>
+            <Point id="1798">
+                <coordinates>-106.3608,38.6397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1801">
+            <name>Haybro</name>
+            <description>Status: Little remains.</description>
+            <Point id="1800">
+                <coordinates>-106.9595,40.3322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1803">
+            <name>Henderson Island</name>
+            <description>Status: Adams County Fairgrounds</description>
+            <Point id="1802">
+                <coordinates>-104.8687,39.93,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1805">
+            <name>Henson</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1804">
+                <coordinates>-107.377,38.0208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1807">
+            <name>Highland</name>
+            <description>Status: Denver neighborhood</description>
+            <Point id="1806">
+                <coordinates>-105.0092,39.7603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1809">
+            <name>Holy Cross City</name>
+            <description>Status: Few structures remain.</description>
+            <Point id="1808">
+                <coordinates>-106.4781,39.415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1811">
+            <name>Homestead Meadows</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1810">
+                <coordinates>-105.4565,40.3154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1813">
+            <name>Howardsville</name>
+            <description>Status: Modern mill</description>
+            <Point id="1812">
+                <coordinates>-107.5942,37.8356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1815">
+            <name>Independence</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1814">
+                <coordinates>-106.6059,39.1072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1817">
+            <name>Independence</name>
+            <description>Status: Little remains.</description>
+            <Point id="1816">
+                <coordinates>-105.1366,38.7322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1819">
+            <name>Iola</name>
+            <description>Status: Submerged inBlue Mesa Reservoir</description>
+            <Point id="1818">
+                <coordinates>-107.0973,38.475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1821">
+            <name>Ironton</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1820">
+                <coordinates>-107.6803,37.9328,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1823">
+            <name>Juanita</name>
+            <description>Status: Railroad structures remain.</description>
+            <Point id="1822">
+                <coordinates>-107.1506,37.0272,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1825">
+            <name>Keota</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1824">
+                <coordinates>-104.0752,40.7028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1827">
+            <name>Kings Canyon</name>
+            <description>Status: Little remains.</description>
+            <Point id="1826">
+                <coordinates>-106.227,40.9269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1829">
+            <name>Kokomo</name>
+            <description>Status: Buried under mine waste</description>
+            <Point id="1828">
+                <coordinates>-106.1897,39.4242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1831">
+            <name>La Veta Pass</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1830">
+                <coordinates>-105.2033,37.5931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1833">
+            <name>Last Chance</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1832">
+                <coordinates>-103.5916,39.7408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1835">
+            <name>Lenado</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1834">
+                <coordinates>-106.7625,39.2425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1837">
+            <name>Liberty</name>
+            <description>Status: </description>
+            <Point id="1836">
+                <coordinates>-105.5958,37.8603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1839">
+            <name>Ludlow</name>
+            <description>Status: National Historic Landmark</description>
+            <Point id="1838">
+                <coordinates>-104.5833,37.3333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1841">
+            <name>Lulu City</name>
+            <description>Status: Three cabins remain.</description>
+            <Point id="1840">
+                <coordinates>-105.8481,40.4455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1843">
+            <name>Lytle</name>
+            <description>Status: Schoolhouse remains.</description>
+            <Point id="1842">
+                <coordinates>-104.8669,38.6019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1845">
+            <name>Madrid</name>
+            <description>Status: </description>
+            <Point id="1844">
+                <coordinates>-104.6413,37.1276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1847">
+            <name>Malachite</name>
+            <description>Status: </description>
+            <Point id="1846">
+                <coordinates>-105.2608,37.7544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1849">
+            <name>Malta</name>
+            <description>Status: Schoolhouse remains.</description>
+            <Point id="1848">
+                <coordinates>-106.3509,39.2294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1851">
+            <name>Manhattan</name>
+            <description>Status: Cemetery remains.</description>
+            <Point id="1850">
+                <coordinates>-105.6,40.7322,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1853">
+            <name>Masters</name>
+            <description>Status: </description>
+            <Point id="1852">
+                <coordinates>-104.245,40.3094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1855">
+            <name>Mayday</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1854">
+                <coordinates>-108.0767,37.3506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1857">
+            <name>Middleton</name>
+            <description>Status: Little remains.</description>
+            <Point id="1856">
+                <coordinates>-107.5723,37.855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1859">
+            <name>Missouri City</name>
+            <description>Status: A single grave remains.</description>
+            <Point id="1858">
+                <coordinates>-105.5073,39.7901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1861">
+            <name>Montana</name>
+            <description>Status: NearGrant-Frontier Parkin southDenver</description>
+            <Point id="1860">
+                <coordinates>-104.995,39.6767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1863">
+            <name>Montezuma</name>
+            <description>Status: Town government reactivated</description>
+            <Point id="1862">
+                <coordinates>-105.8672,39.5811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1865">
+            <name>Morley</name>
+            <description>Status: </description>
+            <Point id="1864">
+                <coordinates>-104.5047,37.032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1867">
+            <name>Mount Vernon</name>
+            <description>Status: Located in Matthews/Winters Park</description>
+            <Point id="1866">
+                <coordinates>-105.2065,39.6935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1869">
+            <name>Mystic</name>
+            <description>Status: Little remains.</description>
+            <Point id="1868">
+                <coordinates>-106.9959,40.57,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1871">
+            <name>Needleton</name>
+            <description>Status: </description>
+            <Point id="1870">
+                <coordinates>-107.6915,37.6406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1873">
+            <name>Nevadaville</name>
+            <description>Status: Some residents remain.</description>
+            <Point id="1872">
+                <coordinates>-105.5325,39.7953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1875">
+            <name>Norrie</name>
+            <description>Status: Summer cabins</description>
+            <Point id="1874">
+                <coordinates>-106.6556,39.3247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1877">
+            <name>North Creede</name>
+            <description>Status: Few structures remain.</description>
+            <Point id="1876">
+                <coordinates>-106.9259,37.8642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1879">
+            <name>Ohio</name>
+            <description>Status: Some residents</description>
+            <Point id="1878">
+                <coordinates>-106.6117,38.5667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1881">
+            <name>Old Roach</name>
+            <description>Status: </description>
+            <Point id="1880">
+                <coordinates>-106.1172,40.9244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1883">
+            <name>Orient</name>
+            <description>Status: Two adjacent townsites</description>
+            <Point id="1882">
+                <coordinates>-105.8168,38.2043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1885">
+            <name>Oro City</name>
+            <description>Status: </description>
+            <Point id="1884">
+                <coordinates>-106.2522,39.2353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1887">
+            <name>Pagosa Junction</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1886">
+                <coordinates>-107.1992,37.0381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1889">
+            <name>Pando</name>
+            <description>Status: </description>
+            <Point id="1888">
+                <coordinates>-106.3336,39.4572,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1891">
+            <name>Pandora</name>
+            <description>Status: Little remains.</description>
+            <Point id="1890">
+                <coordinates>-107.7856,37.9333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1893">
+            <name>Parkville</name>
+            <description>Status: Cemetery remains.</description>
+            <Point id="1892">
+                <coordinates>-106.95,39.4989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1895">
+            <name>Parrott City</name>
+            <description>Status: Remnants ofMayday</description>
+            <Point id="1894">
+                <coordinates>-108.0767,37.3506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1897">
+            <name>Pearl</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1896">
+                <coordinates>-106.547,40.9852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1899">
+            <name>Pieplant Mill</name>
+            <description>Status: </description>
+            <Point id="1898">
+                <coordinates>-106.5595,38.938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1901">
+            <name>Pinneo</name>
+            <description>Status: </description>
+            <Point id="1900">
+                <coordinates>-103.4386,40.2094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1903">
+            <name>Pittsburg</name>
+            <description>Status: Little remains.</description>
+            <Point id="1902">
+                <coordinates>-107.0625,38.9522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1905">
+            <name>Poudre City</name>
+            <description>Status: Nothing remains.</description>
+            <Point id="1904">
+                <coordinates>-105.6233,40.698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1907">
+            <name>Preston</name>
+            <description>Status: </description>
+            <Point id="1906">
+                <coordinates>-106.0211,39.4958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1909">
+            <name>Primero</name>
+            <description>Status: </description>
+            <Point id="1908">
+                <coordinates>-104.7417,37.1425,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1911">
+            <name>Proctor</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1910">
+                <coordinates>-102.9516,40.8069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1913">
+            <name>Purcell</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1912">
+                <coordinates>-104.6016,40.6383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1915">
+            <name>Querida</name>
+            <description>Status: </description>
+            <Point id="1914">
+                <coordinates>-105.3344,38.1261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1917">
+            <name>Red Mountain</name>
+            <description>Status: Few original structures</description>
+            <Point id="1916">
+                <coordinates>-107.7026,37.9036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1919">
+            <name>Rexford</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1918">
+                <coordinates>-105.8958,39.5339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1921">
+            <name>Romley</name>
+            <description>Status: Little remains.</description>
+            <Point id="1920">
+                <coordinates>-106.37,38.675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1923">
+            <name>Rosita</name>
+            <description>Status: One business open</description>
+            <Point id="1922">
+                <coordinates>-105.3361,38.0972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1925">
+            <name>Ruby</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1924">
+                <coordinates>-106.6092,39.0208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1927">
+            <name>Russell Gulch</name>
+            <description>Status: Some residents remain.</description>
+            <Point id="1926">
+                <coordinates>-105.5369,39.7786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1929">
+            <name>St. Charles</name>
+            <description>Status: Site aroundDenver Union Station</description>
+            <Point id="1928">
+                <coordinates>-105.0031,39.7533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1931">
+            <name>Saint Elmo</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1930">
+                <coordinates>-106.3481,38.7047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1933">
+            <name>Saint Vrain</name>
+            <description>Status: Adjacent to site ofFort Saint Vrain</description>
+            <Point id="1932">
+                <coordinates>-104.8527,40.277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1935">
+            <name>Saint Vrains</name>
+            <description>Status: </description>
+            <Point id="1934">
+                <coordinates>-104.9547,40.0369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1937">
+            <name>Saints John</name>
+            <description>Status: Some residents remain.</description>
+            <Point id="1936">
+                <coordinates>-105.8817,39.5717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1939">
+            <name>San Juan City</name>
+            <description>Status: One cabin remains.</description>
+            <Point id="1938">
+                <coordinates>-107.1441,37.7857,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1941">
+            <name>Serene</name>
+            <description>Status: </description>
+            <Point id="1940">
+                <coordinates>-105.0259,40.0242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1943">
+            <name>Seven Lakes</name>
+            <description>Status: Mine structures remain.</description>
+            <Point id="1942">
+                <coordinates>-105.0086,38.7817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1945">
+            <name>Siloam</name>
+            <description>Status: Little remains.</description>
+            <Point id="1944">
+                <coordinates>-104.9758,38.2514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1947">
+            <name>Silver Creek</name>
+            <description>Status: </description>
+            <Point id="1946">
+                <coordinates>-105.6322,39.7536,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1949">
+            <name>Silverdale</name>
+            <description>Status: </description>
+            <Point id="1948">
+                <coordinates>-105.6961,39.6917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1951">
+            <name>Sneffels</name>
+            <description>Status: </description>
+            <Point id="1950">
+                <coordinates>-107.7498,37.9753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1953">
+            <name>Sopris</name>
+            <description>Status: Submerged inTrinidad Lake</description>
+            <Point id="1952">
+                <coordinates>-104.5644,37.1347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1955">
+            <name>South Denver</name>
+            <description>Status: Several Denver neighborhoods</description>
+            <Point id="1954">
+                <coordinates>-104.9694,39.6786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1957">
+            <name>Spar City</name>
+            <description>Status: Summer cabins</description>
+            <Point id="1956">
+                <coordinates>-106.9684,37.7072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1959">
+            <name>Stout</name>
+            <description>Status: Submerged inHorsetooth Reservoir</description>
+            <Point id="1958">
+                <coordinates>-105.1576,40.5266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1961">
+            <name>Summitville</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1960">
+                <coordinates>-106.5923,37.4306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1963">
+            <name>Sunset</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1962">
+                <coordinates>-105.4689,40.0358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1965">
+            <name>Swallows</name>
+            <description>Status: Submerged inPueblo Reservoir</description>
+            <Point id="1964">
+                <coordinates>-104.8603,38.3022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1967">
+            <name>Swandyke</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1966">
+                <coordinates>-105.8922,39.5083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1969">
+            <name>Tarryall</name>
+            <description>Status: Some residents remain.</description>
+            <Point id="1968">
+                <coordinates>-105.4756,39.1219,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1971">
+            <name>Teller City</name>
+            <description>Status: Structures remain.</description>
+            <Point id="1970">
+                <coordinates>-106.0034,40.4333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1973">
+            <name>Tercio</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1972">
+                <coordinates>-104.9967,37.052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1975">
+            <name>Thomasville</name>
+            <description>Status: Many structures remain.</description>
+            <Point id="1974">
+                <coordinates>-106.7025,39.3603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1977">
+            <name>Tiger</name>
+            <description>Status: Little remains.</description>
+            <Point id="1976">
+                <coordinates>-105.9621,39.5228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1979">
+            <name>Tincup</name>
+            <description>Status: Many structures and summer homes</description>
+            <Point id="1978">
+                <coordinates>-106.4784,38.7544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1981">
+            <name>Tioga</name>
+            <description>Status: Little remains.</description>
+            <Point id="1980">
+                <coordinates>-104.9275,37.6989,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1983">
+            <name>Tomboy</name>
+            <description>Status: Some structures remain.</description>
+            <Point id="1982">
+                <coordinates>-107.7545,37.9367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1985">
+            <name>Trump</name>
+            <description>Status: </description>
+            <Point id="1984">
+                <coordinates>-105.7883,38.8492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1987">
+            <name>Tungsten</name>
+            <description>Status: </description>
+            <Point id="1986">
+                <coordinates>-105.4761,39.9719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1989">
+            <name>Turret</name>
+            <description>Status: Privately held</description>
+            <Point id="1988">
+                <coordinates>-105.9889,38.6403,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1991">
+            <name>Tuttle</name>
+            <description>Status: Foundations remain.</description>
+            <Point id="1990">
+                <coordinates>-102.5109,39.4974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1993">
+            <name>Ula</name>
+            <description>Status: Cemetery remains.</description>
+            <Point id="1992">
+                <coordinates>-105.5019,38.1501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1995">
+            <name>Uravan</name>
+            <description>Status: Little remains.</description>
+            <Point id="1994">
+                <coordinates>-108.7365,38.3683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1997">
+            <name>Vicksburgh</name>
+            <description>Status: National Register Historic District</description>
+            <Point id="1996">
+                <coordinates>-106.3778,38.9992,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1999">
+            <name>Virginia Dale</name>
+            <description>Status: Stage station preserved</description>
+            <Point id="1998">
+                <coordinates>-105.3492,40.9547,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2001">
+            <name>Vulcan</name>
+            <description>Status: Several structures remain.</description>
+            <Point id="2000">
+                <coordinates>-107.0014,38.3455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2003">
+            <name>Wagon Wheel Gap</name>
+            <description>Status: Dude ranch&amp;hot springs</description>
+            <Point id="2002">
+                <coordinates>-106.8312,37.7736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2005">
+            <name>Wason</name>
+            <description>Status: Located on Wason Ranch</description>
+            <Point id="2004">
+                <coordinates>-106.8931,37.8242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2007">
+            <name>Weaver</name>
+            <description>Status: Few structures remain.</description>
+            <Point id="2006">
+                <coordinates>-106.9312,37.8839,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2009">
+            <name>Webster</name>
+            <description>Status: Little remains.</description>
+            <Point id="2008">
+                <coordinates>-105.7203,39.4575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2011">
+            <name>Winfield</name>
+            <description>Status: Several structures remain.</description>
+            <Point id="2010">
+                <coordinates>-106.4409,38.9847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2013">
+            <name>Unnamed Town</name>
+            <description>Status: Unknown</description>
+            <Point id="2012">
+                <coordinates>-105.5478,38.9972,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
