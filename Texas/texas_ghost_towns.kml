@@ -1,0 +1,2385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="571">
+        <Placemark id="573">
+            <name>Acala</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Acala,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="572">
+                <coordinates>-105.90278,31.33444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>Acme</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Acme,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="574">
+                <coordinates>-99.82389,34.31667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Adobes</name>
+            <description>Neglected site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Adobes,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="576">
+                <coordinates>-104.55361,29.75944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>Albert</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Albert,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="578">
+                <coordinates>-98.60167,30.19389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>Albuquerque</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Albuquerque,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="580">
+                <coordinates>-97.84278,29.34833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>Alexander</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Alexander,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="582">
+                <coordinates>-98.20611,32.05917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>Allamoore</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Allamoore,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="584">
+                <coordinates>-105.00222,31.07778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>Alum</name>
+            <description>Semi abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Alum,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="586">
+                <coordinates>-97.96472,29.29528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>Anarene</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Anarene,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="588">
+                <coordinates>-98.66583,33.485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>Aransas City</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Aransas_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="590">
+                <coordinates>-97.0203,28.1043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>Arden</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Arden,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="592">
+                <coordinates>-100.76694,31.44389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>Arno</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Arno,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="594">
+                <coordinates>-103.6360152,31.6631852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>Arispe</name>
+            <description>Abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Arispe,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="596">
+                <coordinates>-105.275,31.15111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>Auburn</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Auburn,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="598">
+                <coordinates>-97.07722,32.2975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>Audubon</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Audubon,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="600">
+                <coordinates>-97.6153,33.3904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>Bankersmith</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bankersmith,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="602">
+                <coordinates>-98.81917,30.13972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>Becton</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Becton,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="604">
+                <coordinates>-101.64778,33.78361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>Belcherville</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Belcherville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="606">
+                <coordinates>-97.83222,33.8025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>Belknap</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Belknap_(Texas)' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="608">
+                <coordinates>-98.7412111,33.150775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>Belle Plain</name>
+            <description>Neglected site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Belle_Plain,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="610">
+                <coordinates>-99.36083,32.31083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>Belzora</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Belzora,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="612">
+                <coordinates>-95.2,32.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>Ben Ficklin</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ben_Ficklin,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="614">
+                <coordinates>-100.44,31.4028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>Benton City</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Benton_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="616">
+                <coordinates>-98.769836,29.202948,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>Best</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Best,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="618">
+                <coordinates>-101.62111,31.22472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>Bettina</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bettina,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="620">
+                <coordinates>-98.956583,30.70111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>Bexar</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bexar,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="622">
+                <coordinates>-98.68778,29.22556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>Birchville</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Birchville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="624">
+                <coordinates>-105.96583,31.375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>Birdville</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Birdville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="626">
+                <coordinates>-97.2716,32.8161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>Blumenthal</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Blumenthal,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="628">
+                <coordinates>-98.74139,30.22167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>Boise</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Boise,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="630">
+                <coordinates>-102.85972,35.21444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>Boldtville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Boldtville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="632">
+                <coordinates>-98.36083,29.36361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>Bomarton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bomarton,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="634">
+                <coordinates>-99.42611,33.5075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>Boonville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Boonville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="636">
+                <coordinates>-96.32472,30.67083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>Boracho</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Boracho,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="638">
+                <coordinates>-104.38861,31.07722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>Boz</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Boz,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="640">
+                <coordinates>-96.92917,32.30833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>Bradshaw</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bradshaw,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="642">
+                <coordinates>-99.89778,32.09861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>Bragg</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bragg,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="644">
+                <coordinates>-94.56444,30.41917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Britton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Britton,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="646">
+                <coordinates>-97.06825,32.547556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>Browning</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Browning,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="648">
+                <coordinates>-95.08417,32.38389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>Bryant Station</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bryant_Station,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="650">
+                <coordinates>-97.194,30.849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>Bucksnort</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bucksnort,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="652">
+                <coordinates>-95.92083,31.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>Cain City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cain_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="654">
+                <coordinates>-98.8125,30.19722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>Calaveras</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Calaveras,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="656">
+                <coordinates>-98.26,29.22222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>Calf Creek</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Calf_Creek,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="658">
+                <coordinates>-99.46889,30.97889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>Callahan City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Callahan_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="660">
+                <coordinates>-99.29348,32.343888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>Calliham</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Calliham,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="662">
+                <coordinates>-98.35028,28.48056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>Camey Spur</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Camey_Spur,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="664">
+                <coordinates>-96.85611,33.08333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>Camp Verde</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Camp_Verde,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="666">
+                <coordinates>-99.10472,29.89389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>Cañada Verde</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ca%C3%B1ada_Verde,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="668">
+                <coordinates>-98.2761222,29.1921867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>Candelaria</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Candelaria,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="670">
+                <coordinates>-104.68556,30.13861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>Canyon City</name>
+            <description>Barren, submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Canyon_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="672">
+                <coordinates>-98.18778,29.87389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>Canyon Valley</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Canyon_Valley,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="674">
+                <coordinates>-101.33528,33.40111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>Cap Rock</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cap_Rock,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="676">
+                <coordinates>-101.39833,33.49139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>Carlton</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carlton,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="678">
+                <coordinates>-98.17139,31.91972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>Carpenter</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carpenter,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="680">
+                <coordinates>-98.18472,29.37833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>Carta Valley</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carta_Valley,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="682">
+                <coordinates>-100.67472,29.79361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>Carter</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carter,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="684">
+                <coordinates>-97.74417,32.90889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>Casa Blanca</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Casa_Blanca,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="686">
+                <coordinates>-97.90389,28.00083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>Castolon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Castolon' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="688">
+                <coordinates>-103.51306,29.13,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>Cedar Station</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cedar_Station,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="690">
+                <coordinates>-101.91083,29.91556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>Center Point</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Center_Point,_Camp_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="692">
+                <coordinates>-94.83028,32.96417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>Center Point</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Center_Point,_Kerr_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="694">
+                <coordinates>-99.04111,29.94139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>Center Point</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Center_Point,_Panola_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="696">
+                <coordinates>-94.4668673,32.3334892,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>Chalk Mountain</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Chalk_Mountain,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="698">
+                <coordinates>-97.91083,32.15444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>Cheapside</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cheapside,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="700">
+                <coordinates>-97.40306,29.27833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>Chinati</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Chinati,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="702">
+                <coordinates>-104.60583,29.82417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>Clairemont</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clairemont,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="704">
+                <coordinates>-100.75139,33.16639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>Clairette</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clairette,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="706">
+                <coordinates>-98.20611,32.05917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>Clareville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clareville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="708">
+                <coordinates>-97.87111,28.3225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>Click</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Click,_Llano_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="710">
+                <coordinates>-98.57389,30.56333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>Clinton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clinton,_DeWitt_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="712">
+                <coordinates>-96.23583,33.10333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>Close City</name>
+            <description>No longer exists&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Close_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="714">
+                <coordinates>-101.48722,33.21083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>Coffeeville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Coffeeville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="716">
+                <coordinates>-94.75778,32.82917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>Coke</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Coke,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="718">
+                <coordinates>-95.43528,32.925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>Coker</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Coker,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="720">
+                <coordinates>-98.491,29.558,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>College Mound</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/College_Mound,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="722">
+                <coordinates>-96.18694,32.67278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>Comyn</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Comyn,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="724">
+                <coordinates>-98.47028,32.07306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>Concrete</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Concrete,_Guadalupe_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="726">
+                <coordinates>-98.0977,29.3809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>Copano</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Copano,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="728">
+                <coordinates>-97.130406,28.145908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>Corn Hill</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Corn_Hill,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="730">
+                <coordinates>-97.615,30.80694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>Cottage Hill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cottage_Hill,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="732">
+                <coordinates>-98.1999,29.3727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>Crestonio</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Crestonio,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="734">
+                <coordinates>-98.5986,27.3617,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>Crisp</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Crisp,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="736">
+                <coordinates>-96.58111,32.39806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>Currey's Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Currey%27s_Creek,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="738">
+                <coordinates>-98.5889,29.97,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>Curry</name>
+            <description>Barren: Submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Curry,_Stephens_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="740">
+                <coordinates>-98.9875701,32.7345651,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>Cuthbert</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cuthbert,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="742">
+                <coordinates>-101.03194,32.48139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>Dalby Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dalby_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="744">
+                <coordinates>-94.67972,33.36889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>Danville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Danville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="746">
+                <coordinates>-94.82694,32.40111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>Darwin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Darwin,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="748">
+                <coordinates>-99.74528,27.71194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>Dewees</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dewees,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="750">
+                <coordinates>-98.17222,29.02056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>Dido</name>
+            <description>Abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dido,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="752">
+                <coordinates>-97.48556,32.95139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>Dolores</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dolores,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="754">
+                <coordinates>-99.7325,27.68861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>Doseido Colony</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Doseido_Colony,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="756">
+                <coordinates>-98.159,29.335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>Doole</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Doole,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="758">
+                <coordinates>-99.59889,31.39583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>Drop</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Drop,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="760">
+                <coordinates>-97.35583,33.13083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>Dryden</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dryden,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="762">
+                <coordinates>-102.11444,30.04472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>Duffau</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Duffau,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="764">
+                <coordinates>-98.021393,32.082575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>Dull</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dull,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="766">
+                <coordinates>-98.93111,28.445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>Eckert</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Eckert,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="768">
+                <coordinates>-98.73667,30.41444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Eliasville</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Eliasville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="770">
+                <coordinates>-98.76528,32.95972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>Elizabethtown</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Elizabethtown,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="772">
+                <coordinates>-97.27667,33.02167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Elm Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Elm_Creek,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="774">
+                <coordinates>-100.49083,28.77361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Emerald</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Emerald,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="776">
+                <coordinates>-101.1549,30.7208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>Esperanza</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Esperanza,_Montgomery_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="778">
+                <coordinates>-95.49028,30.48778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>Estacado</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Estacado,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="780">
+                <coordinates>-101.56194,33.75222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>Etholen</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Etholen,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="782">
+                <coordinates>-105.42444,31.22556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>Etna</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Etna,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="784">
+                <coordinates>-95.3368,32.1359,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>Fasken</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fasken,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="786">
+                <coordinates>-102.5452,32.5812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>Fort Belknap</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Belknap,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="788">
+                <coordinates>-98.7412111,33.150775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>Fort Griffin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Griffin,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="790">
+                <coordinates>-99.23222,32.92722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>Fort Holland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Holland,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="792">
+                <coordinates>-104.660611,30.5495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>Fort Martin Scott</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Martin_Scott' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="794">
+                <coordinates>-98.84639,30.24944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>Fort McKavett</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_McKavett,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="796">
+                <coordinates>-100.10667,30.82722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>Fort Quitman</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Quitman,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="798">
+                <coordinates>-105.58389,31.0625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>Fort Terrett</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Terrett,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="800">
+                <coordinates>-100.18583,30.46306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>Frio Town</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Frio_Town,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="802">
+                <coordinates>-99.30278,29.01944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>Fuqua</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fuqua,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="804">
+                <coordinates>-94.7363152,30.4471514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>Gay Hill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gay_Hill,_Washington_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="806">
+                <coordinates>-96.49417,30.27194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>Girvin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Girvin,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="808">
+                <coordinates>-102.38861,31.06306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>Glenrio</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Glenrio,_New_Mexico_and_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="810">
+                <coordinates>-103.04222,35.17889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>Goforth</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Goforth,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="812">
+                <coordinates>-97.79333,30.02194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>Gold, Texas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gold,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="814">
+                <coordinates>-98.68722,30.34667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>Goodwill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Goodwill,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="816">
+                <coordinates>-96.185,30.242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>Goshen</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Goshen,_Walker_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="818">
+                <coordinates>-95.72139,30.62222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>Granville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Granville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="820">
+                <coordinates>-94.8413206,31.2812962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>Grapetown</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grapetown,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="822">
+                <coordinates>-98.76833,30.1475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>Grass Pond Colony</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grass_Pond_Colony,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="824">
+                <coordinates>-98.12944,29.25139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>Grassyville</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grassyville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="826">
+                <coordinates>-97.07917,30.13722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>Green Valley</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Green_Valley,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="828">
+                <coordinates>-97.0641767,33.3134499,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Grit</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grit,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="830">
+                <coordinates>-99.32,30.78333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>Gruene</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gruene,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="832">
+                <coordinates>-98.10389,29.73833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>Hackberry</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hackberry_(Lavaca_County),_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="834">
+                <coordinates>-96.875,29.579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Hale City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hale_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="836">
+                <coordinates>-101.87222,34.09278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>Handley</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Handley,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="838">
+                <coordinates>-97.21,32.74,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>Haslam</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Haslam,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="840">
+                <coordinates>-94.14,31.79,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>Hay Flat</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hay_Flat,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="842">
+                <coordinates>-103.319722,31.905056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>Heckville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Heckville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="844">
+                <coordinates>-101.66528,33.75472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>Hedwigs Hill, Texas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hedwigs_Hill,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="846">
+                <coordinates>-99.11194,30.66583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>Helena</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Helena,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="848">
+                <coordinates>-97.82333,28.95389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>Helmic</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Helmic,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="850">
+                <coordinates>-94.98667,31.18083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>Henry's Chapel</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Henry%27s_Chapel,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="852">
+                <coordinates>-95.0425,32.10667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>Hilda</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hilda,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="854">
+                <coordinates>-99.11444,30.58694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>Huff</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Huff,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="856">
+                <coordinates>-98.53722,33.76861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>Illinois Bend</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Illinois_Bend,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="858">
+                <coordinates>-97.48722,33.88167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>Indianola</name>
+            <description>Barren site, submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Indianola,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="860">
+                <coordinates>-96.4875,28.51194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>Indio</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Indio,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="862">
+                <coordinates>-99.09583,26.54889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>Ireland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ireland,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="864">
+                <coordinates>-97.96528,31.56694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>Islitas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Islitas,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="866">
+                <coordinates>-99.65306,27.66722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>Izoro</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Izoro,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="868">
+                <coordinates>-98.07556,31.29444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>Jarvis</name>
+            <description>Unknown&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jarvis,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="870">
+                <coordinates>-95.445,31.75528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>Jermyn</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jermyn,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="872">
+                <coordinates>-98.38833,33.26417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>Joinerville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Joinerville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="874">
+                <coordinates>-94.90083,32.17806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>Jonesboro</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jonesboro,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="876">
+                <coordinates>-97.87583,31.61528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>Jud</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jud,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="878">
+                <coordinates>-99.9575,33.29556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>Juno</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Juno,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="880">
+                <coordinates>-101.11528,30.15194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>Justiceburg</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Justiceburg,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="882">
+                <coordinates>-101.20306,33.04194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>Kelsey</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kelsey,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="884">
+                <coordinates>-95.04972,32.73167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>Kelso</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kelso,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="886">
+                <coordinates>-102.6333,35.0061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>Kent</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kent,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="888">
+                <coordinates>-104.21722,31.06917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>Kicaster</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kicaster,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="890">
+                <coordinates>-98.20861,29.31028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>Kirkland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kirkland,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="892">
+                <coordinates>-100.06139,34.37917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>Kittrell</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kittrell,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="894">
+                <coordinates>-95.49639,30.96556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>La Casa</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/La_Casa,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="896">
+                <coordinates>-98.68944,32.60083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>La Plata</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/La_Plata,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="898">
+                <coordinates>-102.5987,34.9701,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>La Reunion</name>
+            <description>Barren[261]&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/La_Reunion_(Dallas)' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="900">
+                <coordinates>-96.856889,32.7592278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>Lajitas</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lajitas,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="902">
+                <coordinates>-103.77667,29.26167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>Langtry</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Langtry,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="904">
+                <coordinates>-101.55861,29.80861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>Larissa</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Larissa,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="906">
+                <coordinates>-95.32472,32.05861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>Laurelia</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Laurelia,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="908">
+                <coordinates>-94.8223,30.9697972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>Leesville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Leesville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="910">
+                <coordinates>-97.745,29.40694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>Lemonville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lemonville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="912">
+                <coordinates>-93.84583,30.21444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>Levita</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Levita,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="914">
+                <coordinates>-97.88806,31.515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>Linnville, Brazoria County, Texas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Linnville,_Brazoria_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="916">
+                <coordinates>-95.7613412,28.9891417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>Linnville, Calhoun County, Texas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Linnville,_Calhoun_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="918">
+                <coordinates>-96.6346,28.6531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>Lobo</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lobo,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="920">
+                <coordinates>-104.75306,30.81417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>Locker</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Locker,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="922">
+                <coordinates>-98.89694,31.3775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>Lodi</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lodi,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="924">
+                <coordinates>-94.28,32.87444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>Loma Vista</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Loma_Vista,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="926">
+                <coordinates>-98.98139,26.41694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>Longhorn</name>
+            <description>Absorbed&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Longhorn,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="928">
+                <coordinates>-98.39738,29.53315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>Los Ojuelos</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Los_Ojuelos,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="930">
+                <coordinates>-98.99639,27.40306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>Louetta</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Louetta,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="932">
+                <coordinates>-95.56111,30.00667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>Luckenbach</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Luckenbach,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="934">
+                <coordinates>-98.75721,30.18152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>Lytton Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lytton_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="936">
+                <coordinates>-97.6125,30.00472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>Madera Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Madera_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="938">
+                <coordinates>-103.95,30.85528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>Mangum</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mangum,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="940">
+                <coordinates>-98.85944,32.32,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>Manning</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Manning,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="942">
+                <coordinates>-94.53639,31.13889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>Marysville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Marysville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="944">
+                <coordinates>-97.33417,33.77056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>Maxdale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Maxdale,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="946">
+                <coordinates>-97.83556,30.99,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>McDuff</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/McDuff,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="948">
+                <coordinates>-97.46278,30.22444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>McGirk</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/McGirk,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="950">
+                <coordinates>-98.33139,31.51806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>McNeil</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/McNeil,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="952">
+                <coordinates>-97.72056,30.45306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>Medicine Mound</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Medicine_Mound,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="954">
+                <coordinates>-99.594535,34.1878599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>Mentone</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mentone,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="956">
+                <coordinates>-103.59833,31.70639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>Mesquite</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mesquite,_Borden_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="958">
+                <coordinates>-101.63028,32.87028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>Mineral Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mineral_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="960">
+                <coordinates>-94.4891,32.2923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>Minters Chapel</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Minters_Chapel,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="962">
+                <coordinates>-97.06056,32.88556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>Mobeetie</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mobeetie,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="964">
+                <coordinates>-100.43833,35.51806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>Monthalia</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Monthalia,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="966">
+                <coordinates>-97.60861,29.46889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>Mormon Mill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mormon_Mill,_Burnet_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="968">
+                <coordinates>-98.23389,30.63694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>Morrill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Morrill,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="970">
+                <coordinates>-95.06472,31.59389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>Morris Ranch</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Morris_Ranch,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="972">
+                <coordinates>-99.01222,30.21722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>Mount Blanco</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mount_Blanco,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="974">
+                <coordinates>-101.25306,33.79139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>Narcisso</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Narcisso,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="976">
+                <coordinates>-100.47333,34.00028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>New Birmingham</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/New_Birmingham,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="978">
+                <coordinates>-95.12083,31.77361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>New Danville</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Danville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="980">
+                <coordinates>-94.82694,32.40111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>New Fountain</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/New_Fountain,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="982">
+                <coordinates>-99.06,29.38667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>New Gulf</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/New_Gulf,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="984">
+                <coordinates>-95.9,29.25528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>New Sweden</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/New_Sweden,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="986">
+                <coordinates>-97.51306,30.40861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>Newport</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Newport,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="988">
+                <coordinates>-98.01639,33.46778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>Nix</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Nix,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="990">
+                <coordinates>-98.36694,31.10806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>North Roby</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/North_Roby,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="992">
+                <coordinates>-100.38694,32.80667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>Nottawa</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Nottawa,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="994">
+                <coordinates>-96.14889,29.53917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>Noxville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Noxville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="996">
+                <coordinates>-99.46722,30.39,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>Oak Forest</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Oak_Forest,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="998">
+                <coordinates>-97.584861,29.498667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>Oak Hill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Oak_Hill,_Bastrop_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1000">
+                <coordinates>-97.16556,29.98472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>Oakland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Oakland,_Colorado_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1002">
+                <coordinates>-96.83,29.60167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>Ohio</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ohio,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1004">
+                <coordinates>-98.08611,31.53944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>Orla</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Orla,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1006">
+                <coordinates>-103.90889,31.825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>Osage</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Osage,_Colorado_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1008">
+                <coordinates>-96.715,29.74111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>Owens</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Owens,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1010">
+                <coordinates>-98.92583,31.84806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Owensville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Owensville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1012">
+                <coordinates>-96.51944,31.07306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>Owenville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Owenville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1014">
+                <coordinates>-100.2227,30.6289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>Pandora</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pandora,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1016">
+                <coordinates>-97.83861,29.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>Palm Valley</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Palm_Valley,_Williamson_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1018">
+                <coordinates>-97.62111,30.54333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>Pandale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pandale,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1020">
+                <coordinates>-101.55083,30.18444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>Parris</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Parris,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1022">
+                <coordinates>-96.60583,33.25278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>Peach Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Peach_Creek,_Wharton_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1024">
+                <coordinates>-95.94944,29.33556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>Pear Valley</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pear_Valley,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1026">
+                <coordinates>-99.49389,31.31028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>Pedernales</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pedernales,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1028">
+                <coordinates>-98.94417,30.20917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>Perico</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Perico,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1030">
+                <coordinates>-102.86444,36.27639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>Pescadito</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pescadito,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1032">
+                <coordinates>-99.2575,27.51056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>Phelan</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Phelan,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1034">
+                <coordinates>-97.32611,30.15889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>Phillips</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Phillips,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1036">
+                <coordinates>-101.35111,35.68742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>Pila Blanca</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pila_Blanca,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1038">
+                <coordinates>-98.47278,27.80639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>Pilares</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pilares,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1040">
+                <coordinates>-104.85194,30.43639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>Pine Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pine_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1042">
+                <coordinates>-104.81556,31.8925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>Pisek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pisek,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1044">
+                <coordinates>-96.58306,29.91667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>Pisgah</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pisgah,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1046">
+                <coordinates>-96.4908166,31.8832159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>Pittsville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pittsville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1048">
+                <coordinates>-95.92472,29.72306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>Plata</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Plata,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1050">
+                <coordinates>-104.0175,29.87611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>Pleasant Hill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pleasant_Hill,_Houston_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1052">
+                <coordinates>-94.79778,31.00889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>Plemons</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Plemons,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1054">
+                <coordinates>-101.30917,35.80083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>Polonia</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Polonia,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1056">
+                <coordinates>-97.71543,29.939217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>Pontotoc</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pontotoc,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1058">
+                <coordinates>-98.98,30.90944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>Port Sullivan</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Port_Sullivan,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1060">
+                <coordinates>-96.69556,30.86611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>Porterville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Porterville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1062">
+                <coordinates>-103.618111,31.686917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>Porvenir</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Porvenir,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1064">
+                <coordinates>-104.84444,30.41861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>Praha</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Praha,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1066">
+                <coordinates>-97.06722,29.66833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>Preston</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Preston,_Wharton_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1068">
+                <coordinates>-95.96389,29.27806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>Princeton</name>
+            <description>Abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Princeton,_Newton_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1070">
+                <coordinates>-93.8018,30.326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>Pringle</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pringle,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1072">
+                <coordinates>-101.45639,35.94917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>Provident City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Provident_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1074">
+                <coordinates>-96.63222,29.28278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>Pumpville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pumpville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1076">
+                <coordinates>-101.735194,29.942528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>Pyote</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pyote,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1078">
+                <coordinates>-103.12667,31.5375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>Rath City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Rath_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1080">
+                <coordinates>-100.18167,33.00972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Red River Station</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Red_River_Station,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1082">
+                <coordinates>-97.80861,33.87306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>Regency</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Regency,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1084">
+                <coordinates>-98.85083,31.42056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>Rexville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Rexville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1086">
+                <coordinates>-96.21333,29.72639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>Rock Island</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Rock_Island,_Washington_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1088">
+                <coordinates>-96.166909,30.18075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>Roosevelt</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Roosevelt,_Kimble_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1090">
+                <coordinates>-100.055,30.49111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>Ross City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ross_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1092">
+                <coordinates>-101.30639,32.09639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>Royston, Texas</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Royston,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1094">
+                <coordinates>-100.29833,32.81167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>Salt Flat</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Salt_Flat,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1096">
+                <coordinates>-105.09278,31.74361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>Salt Gap</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Salt_Gap,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1098">
+                <coordinates>-99.59917,31.30389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>Saspamco</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Saspamco,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1100">
+                <coordinates>-98.29583,29.23444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>San Vicente</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/San_Vicente,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1102">
+                <coordinates>-103.020139,29.15389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>Sanco</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sanco,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1104">
+                <coordinates>-100.52389,32.00833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>Santa Rita</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Santa_Rita,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1106">
+                <coordinates>-97.59889,25.97944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>Santo Tomás</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Santo_Tom%C3%A1s,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1108">
+                <coordinates>-99.75139,27.74417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>Sarahville de Viesca</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sarahville_de_Viesca,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1110">
+                <coordinates>-95.92083,31.25,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>Shafter</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Shafter,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1112">
+                <coordinates>-104.30333,29.82028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>Shafter Lake</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Shafter_Lake,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1114">
+                <coordinates>-102.66611,32.40444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>Shannon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Shannon,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1116">
+                <coordinates>-98.25889,33.47389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>Sherwood</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sherwood,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1118">
+                <coordinates>-100.79528,31.28139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>Silver</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Silver,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1120">
+                <coordinates>-100.6825,32.07083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>Sipe Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sipe_Springs,_Comanche_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1122">
+                <coordinates>-98.78417,32.09083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1125">
+            <name>Sivells Bend</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sivells_Bend,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1124">
+                <coordinates>-97.22389,33.84972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1127">
+            <name>Slide</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Slide,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1126">
+                <coordinates>-101.93,33.41389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1129">
+            <name>Smeltertown</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Smeltertown,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1128">
+                <coordinates>-106.52667,31.78333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1131">
+            <name>Smithfield</name>
+            <description>Absorbed&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Smithfield,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1130">
+                <coordinates>-97.21528,32.87083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1133">
+            <name>Soash</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Soash,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1132">
+                <coordinates>-101.638907,32.51147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1135">
+            <name>Sowers</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sowers,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1134">
+                <coordinates>-96.99056,32.82833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1137">
+            <name>Spanish Fort</name>
+            <description>Neglected&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Spanish_Fort,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1136">
+                <coordinates>-97.626693,33.952008833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1139">
+            <name>Spurlin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Spurlin,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1138">
+                <coordinates>-98.1389247,31.8437618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1141">
+            <name>Starrville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Starrville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1140">
+                <coordinates>-95.11611,32.47,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1143">
+            <name>Stiles</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Stiles,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1142">
+                <coordinates>-101.56611,31.40694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1145">
+            <name>Sumpter</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sumpter,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1144">
+                <coordinates>-95.05389,31.03667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1147">
+            <name>Sutherland Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sutherland_Springs,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1146">
+                <coordinates>-98.05667,29.27333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1149">
+            <name>Sweden</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sweden,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1148">
+                <coordinates>-98.4683639,27.5561667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1151">
+            <name>Sycamore</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sycamore,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1150">
+                <coordinates>-97.49,33.32361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1153">
+            <name>Tascosa</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tascosa,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1152">
+                <coordinates>-102.25556,35.53111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1155">
+            <name>Tee Pee City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tee_Pee_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1154">
+                <coordinates>-100.6396056,34.0049361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1157">
+            <name>Tehuacana</name>
+            <description>Historic community&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tehuacana,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1156">
+                <coordinates>-96.54556,31.74222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1159">
+            <name>Telegraph</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Telegraph,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1158">
+                <coordinates>-99.90611,30.3275,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1161">
+            <name>Telico</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Telico,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1160">
+                <coordinates>-96.5125,32.37222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1163">
+            <name>Tennyson</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tennyson,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1162">
+                <coordinates>-100.28611,31.74194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1165">
+            <name>Terlingua</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Terlingua,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1164">
+                <coordinates>-103.57944,29.29917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1167">
+            <name>Texana</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Texana,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1166">
+                <coordinates>-96.56,28.91,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1169">
+            <name>Texla</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Texla,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1168">
+                <coordinates>-93.88111,30.22028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1171">
+            <name>Texon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Texon,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1170">
+                <coordinates>-101.68944,31.225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1173">
+            <name>The Grove</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/The_Grove,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1172">
+                <coordinates>-97.52528,31.27333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1175">
+            <name>Three Oaks</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Three_Oaks,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1174">
+                <coordinates>-98.16722,28.97667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1177">
+            <name>Thurber</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Thurber,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1176">
+                <coordinates>-98.41722,32.50722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1179">
+            <name>Tigertown</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tigertown,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1178">
+                <coordinates>-96.455167,30.0985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1181">
+            <name>Tokio</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tokio,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1180">
+                <coordinates>-102.27528,33.18139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1183">
+            <name>Toyah</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Toyah,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1182">
+                <coordinates>-103.79306,31.31333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1185">
+            <name>Toyahvale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Toyahvale,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1184">
+                <coordinates>-103.78944,30.94444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1187">
+            <name>Trickham</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Trickham,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1186">
+                <coordinates>-99.23056,31.5875,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1189">
+            <name>Tucker</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tucker,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1188">
+                <coordinates>-95.74806,31.67361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1191">
+            <name>Tuff</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tuff,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1190">
+                <coordinates>-99.40361,29.76917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1193">
+            <name>Tuleta</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tuleta,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1192">
+                <coordinates>-97.79667,28.57278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1195">
+            <name>Twin Sisters</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Twin_Sisters,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1194">
+                <coordinates>-98.40528,30.00278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1197">
+            <name>Union Valley</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Union,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1196">
+                <coordinates>-97.845,29.32056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1199">
+            <name>Upland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Upland,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1198">
+                <coordinates>-101.98056,31.36639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1201">
+            <name>Upton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Upton,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1200">
+                <coordinates>-97.26417,30.01139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1203">
+            <name>Utica</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Utica,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1202">
+                <coordinates>-95.26872806,32.51730111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1205">
+            <name>Vandenburg</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Vandenburg,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1204">
+                <coordinates>-99.117059,29.427279,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1207">
+            <name>Verbena</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Verbena,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1206">
+                <coordinates>-101.1956904,33.2748147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1209">
+            <name>Waring</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Waring,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1208">
+                <coordinates>-98.80306,29.95083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1211">
+            <name>Warren</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Warren,_Fannin_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1210">
+                <coordinates>-94.407,30.614,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1213">
+            <name>Wastella</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Wastella,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1212">
+                <coordinates>-100.64944,32.51028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1215">
+            <name>Watson</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Watson,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1214">
+                <coordinates>-98.01444,30.93444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1217">
+            <name>Watkins</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Watkins,_Terrell_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1216">
+                <coordinates>-101.9383333,29.9902778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1219">
+            <name>Watkins</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Watkins,_Van_Zandt_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1218">
+                <coordinates>-96.0277476,32.5395807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1221">
+            <name>Wayside</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Wayside,_Lynn_County,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1220">
+                <coordinates>-101.80722,33.32694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1223">
+            <name>Welfare</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Welfare,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1222">
+                <coordinates>-98.78667,29.92167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1225">
+            <name>White City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/White_City,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1224">
+                <coordinates>-102.2562864,32.8473172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1227">
+            <name>Whiteway</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Whiteway,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1226">
+                <coordinates>-97.97167,31.64306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1229">
+            <name>Whiteflat</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Whiteflat,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1228">
+                <coordinates>-100.88944,34.10528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1231">
+            <name>Whon</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Whon,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1230">
+                <coordinates>-99.30611,31.49028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1233">
+            <name>Williams Ranch</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Williams_Ranch,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1232">
+                <coordinates>-98.63944,31.49806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1235">
+            <name>Woodward</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Woodward,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1234">
+                <coordinates>-99.3208692,28.5335957,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1237">
+            <name>Woody</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Woody,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1236">
+                <coordinates>-103.49325,31.752694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1239">
+            <name>Yegua</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Yegua,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1238">
+                <coordinates>-96.683908,30.289431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1241">
+            <name>Zeirath</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zeirath,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1240">
+                <coordinates>-93.925889,30.730667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1243">
+            <name>Zella</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zella,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1242">
+                <coordinates>-98.7930801,28.5630434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1245">
+            <name>Ziler</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ziler,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1244">
+                <coordinates>-101.4048457,32.273731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1247">
+            <name>Zionville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zionville,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1246">
+                <coordinates>-96.4913577,30.2018815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1249">
+            <name>Zorn</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zorn,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1248">
+                <coordinates>-97.94806,29.75306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1251">
+            <name>Zuehl</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zuehl,_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="1250">
+                <coordinates>-98.15056,29.49167,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
