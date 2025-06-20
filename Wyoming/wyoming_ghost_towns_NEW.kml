@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="67">
+        <Placemark id="69">
+            <name>Alva</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Alva,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="68">
+                <coordinates>-104.4413419,44.6947071,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Atlantic City</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Atlantic_City,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="70">
+                <coordinates>-108.71889,42.49528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Battle</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Battle,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="72">
+                <coordinates>-106.98222,41.15583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Bear River City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bear_River_City,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="74">
+                <coordinates>-110.87012,41.173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Bosler</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bosler,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="76">
+                <coordinates>-105.69528,41.57611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Bryan</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bryan,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="78">
+                <coordinates>-109.681449,41.570573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Buford</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Buford,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="80">
+                <coordinates>-105.3025,41.12361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Cambria</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cambria,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="82">
+                <coordinates>-104.2074409,43.9391458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Carbon</name>
+            <description>Abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carbon,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="84">
+                <coordinates>-106.37694,41.84861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Carter</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Carter,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="86">
+                <coordinates>-110.4325,41.44194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Empire</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Empire,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="88">
+                <coordinates>-104.064,42.1653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Fort Laramie</name>
+            <description>Historic&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Laramie,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="90">
+                <coordinates>-104.51722,42.21333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Gebo</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gebo,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="92">
+                <coordinates>-108.23028,43.79083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Hecla</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hecla,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="94">
+                <coordinates>-105.17333,41.1575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Jay Em</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jay_Em,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="96">
+                <coordinates>-104.36972,42.46139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Jeffrey City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jeffrey_City,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="98">
+                <coordinates>-107.82833,42.49056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Kane</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kane,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="100">
+                <coordinates>-108.20278,44.84361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Kirwin</name>
+            <description>Historic[4]&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kirwin,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="102">
+                <coordinates>-109.29806,43.87639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Linwood</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Linwood,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="104">
+                <coordinates>-109.64611,40.99472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Lost Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lost_Springs,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="106">
+                <coordinates>-104.92694,42.76583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Miner's Delight</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Miner%27s_Delight,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="108">
+                <coordinates>-108.68,42.53278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Piedmont</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Piedmont,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="110">
+                <coordinates>-110.62778,41.21778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Point of Rocks</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Point_of_Rocks,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="112">
+                <coordinates>-108.79139,41.67833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Sage</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sage,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="114">
+                <coordinates>-110.9582432,41.8135549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>South Pass City</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/South_Pass_City,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="116">
+                <coordinates>-108.79972,42.46833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Sherman</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sherman,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="118">
+                <coordinates>-105.39806,41.13111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Sunrise</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sunrise,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="120">
+                <coordinates>-104.70306,42.33194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Table Rock</name>
+            <description>Barren&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Table_Rock,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="122">
+                <coordinates>-108.38806,41.62611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Tubb Town</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tubb_Town,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="124">
+                <coordinates>-104.14083,43.82139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Upton</name>
+            <description>Historic[1]&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Upton,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="126">
+                <coordinates>-104.62583,44.10333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Van Tassell</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Van_Tassell,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="128">
+                <coordinates>-104.09111,42.66361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Walcott</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Walcott,_Wyoming' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="130">
+                <coordinates>-106.845,41.76111,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
