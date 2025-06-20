@@ -11,4 +11,4 @@ An example KML file is included of the ghost town list in CO.
 
 ***Update: not all Wikipedia pages are laid out the same with coordinates, will be adding scrapers for other states using other websites.
 
-Feel free to reach out & request a particular state!
+Feel free to reach out & request a particular state, or just a finished .kml file if you don't want to run the script yourself!
