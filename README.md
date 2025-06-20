@@ -1,5 +1,5 @@
 # Ghost_town_mapper
- Scrapes Wikipedia pages for ghost town coordinates & status for export to Google Maps
+ Scrapes Wikipedia pages for ghost town coordinates & status for export to Google Maps.
 
 This script runs through Wikipedia pages listing ghost town coordinates in a particular state. To use, upload the URL of the wikipedia page. The script will scrape for all names, coordinates, and 'status' (what remains). Right now it's pretty clunky -- I manually set the correct columns of information for status (cell 7) so make sure to check that on the page, otherwise it will grab the wrong info.
 
@@ -10,3 +10,5 @@ If the KML file link isn't working, just change the script to print the KML cont
 An example KML file is included of the ghost town list in CO.
 
 ***Update: not all Wikipedia pages are laid out the same with coordinates, will be adding scrapers for other states using other websites.
+
+Feel free to reach out & request a particular state!
