@@ -8,3 +8,5 @@ The script generates the contents of a KML file that can be uploaded to Google M
 If the KML file link isn't working, just change the script to print the KML contents, then copy and paste into a text file, and save as .kml
 
 An example KML file is included of the ghost town list in CO.
+
+***Update: not all Wikipedia pages are laid out the same with coordinates, will be adding scrapers for other states using other websites.
