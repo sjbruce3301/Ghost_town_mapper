@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="17">
+        <Placemark id="19">
+            <name>Atlantic City</name>
+            <description>Atlantic City is a census-designated place (CDP) in Fremont County, Wyoming, United States. Founded in 1868 by Tozier, Collins &amp; Thompson with the discovery of the Atlantic Lode. By 1870, the town supposedly attained a population of 2,000. This, as in the case of South Pass City, was probably an exaggeration. The 1870 census only reflected a population of 321 whites and 4 blacks. The population was 39 at the 2000 census. The community is a small mining settlement in a gulch near South Pass in southwestern Wyoming. The town declined following the end of the placer gold rush in the early 1870s, but continued to exist as advances in mining technology allowed further extraction of gold. From the 1960s until 1983, it was the location of US Steel iron ore mine.</description>
+            <Point id="18">
+                <coordinates>-108.71888888888888,42.49527777777778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Bear River City</name>
+            <description>Bear River City, Wyoming is a ghost town that was briefly a rapidly thrown together railroad town, located about ten miles south of Evanston, Wyoming.</description>
+            <Point id="20">
+                <coordinates>-110.8701611111111,41.17303333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Bryan</name>
+            <description>Bryan is a ghost town in Sweetwater County in the U.S. state of Wyoming. Bryan is located about 12 miles (19 km) west of Green River along the Blacks Fork River, and for a short time was the local headquarters and division point of the Union Pacific Railroad. Today, only a few concrete foundations remain.</description>
+            <Point id="22">
+                <coordinates>-109.68144722222223,41.570572222222225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Carbon Timber Town</name>
+            <description>Gebo is a ghost town located in Hot Springs County in the U.S. state of Wyoming. It is located about 11 miles (18 km) north of Thermopolis. The town was established as a coal mining camp in 1907 alongside the nearby camps of Crosby and Kirby. It was named after Samuel Gebo who established the Owl Creek Coal Company and the first mine in the area. Mining remained active until 1938. At its height, over 2000 people lived in the area, mostly miners and their families, making Gebo briefly the largest town in the county. The remains of the town were bulldozed in 1971, though some buildings and the cemetery remain.</description>
+            <Point id="24">
+                <coordinates>-108.23027777777779,43.79083333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Crosby</name>
+            <description>Gebo is a ghost town located in Hot Springs County in the U.S. state of Wyoming. It is located about 11 miles (18 km) north of Thermopolis. The town was established as a coal mining camp in 1907 alongside the nearby camps of Crosby and Kirby. It was named after Samuel Gebo who established the Owl Creek Coal Company and the first mine in the area. Mining remained active until 1938. At its height, over 2000 people lived in the area, mostly miners and their families, making Gebo briefly the largest town in the county. The remains of the town were bulldozed in 1971, though some buildings and the cemetery remain.</description>
+            <Point id="26">
+                <coordinates>-108.23027777777779,43.79083333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>The Duncan</name>
+            <description>Gebo is a ghost town located in Hot Springs County in the U.S. state of Wyoming. It is located about 11 miles (18 km) north of Thermopolis. The town was established as a coal mining camp in 1907 alongside the nearby camps of Crosby and Kirby. It was named after Samuel Gebo who established the Owl Creek Coal Company and the first mine in the area. Mining remained active until 1938. At its height, over 2000 people lived in the area, mostly miners and their families, making Gebo briefly the largest town in the county. The remains of the town were bulldozed in 1971, though some buildings and the cemetery remain.</description>
+            <Point id="28">
+                <coordinates>-108.23027777777779,43.79083333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Fort Steele</name>
+            <description>Gebo is a ghost town located in Hot Springs County in the U.S. state of Wyoming. It is located about 11 miles (18 km) north of Thermopolis. The town was established as a coal mining camp in 1907 alongside the nearby camps of Crosby and Kirby. It was named after Samuel Gebo who established the Owl Creek Coal Company and the first mine in the area. Mining remained active until 1938. At its height, over 2000 people lived in the area, mostly miners and their families, making Gebo briefly the largest town in the county. The remains of the town were bulldozed in 1971, though some buildings and the cemetery remain.</description>
+            <Point id="30">
+                <coordinates>-108.23027777777779,43.79083333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Gebo</name>
+            <description>Gebo is a ghost town located in Hot Springs County in the U.S. state of Wyoming. It is located about 11 miles (18 km) north of Thermopolis. The town was established as a coal mining camp in 1907 alongside the nearby camps of Crosby and Kirby. It was named after Samuel Gebo who established the Owl Creek Coal Company and the first mine in the area. Mining remained active until 1938. At its height, over 2000 people lived in the area, mostly miners and their families, making Gebo briefly the largest town in the county. The remains of the town were bulldozed in 1971, though some buildings and the cemetery remain.</description>
+            <Point id="32">
+                <coordinates>-108.23027777777779,43.79083333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Hecla</name>
+            <description>Jeffrey City was named after Dr. C. W. Jeffrey, a wealthy doctor from Rawlins, Wyoming, who initially financed the costs for prospector and businessman Bob Adams to start the Western Nuclear Corporation mining firm and open a Uranium mine near the area in 1957, during the cold war and the height of uranium demand.</description>
+            <Point id="34">
+                <coordinates>-107.82833333333333,42.49055555555556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Jeffrey City</name>
+            <description>Jeffrey City was named after Dr. C. W. Jeffrey, a wealthy doctor from Rawlins, Wyoming, who initially financed the costs for prospector and businessman Bob Adams to start the Western Nuclear Corporation mining firm and open a Uranium mine near the area in 1957, during the cold war and the height of uranium demand.</description>
+            <Point id="36">
+                <coordinates>-107.82833333333333,42.49055555555556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Jireh</name>
+            <description>Kane is a town that existed two miles south of the confluence of the Shoshone River and the Bighorn River in Big Horn County, Wyoming. Prior to the completion of the Yellowtail Dam in Montana, the residents of Kane sold their homes and land to the federal government. When the dam was completed the area surrounding Kane was flooded. Kane Cemetery, which is located one mile north of the confluence and is now part of Bighorn Canyon National Recreation Area, still exists. Relatives of people buried in the cemetery may continue to be buried there. Although the idea somehow gained currency that the cemetery and its residents were relocated prior to the impoundment of water behind the dam, this is incorrect.</description>
+            <Point id="38">
+                <coordinates>-108.208,44.884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Kane</name>
+            <description>Kane is a town that existed two miles south of the confluence of the Shoshone River and the Bighorn River in Big Horn County, Wyoming. Prior to the completion of the Yellowtail Dam in Montana, the residents of Kane sold their homes and land to the federal government. When the dam was completed the area surrounding Kane was flooded. Kane Cemetery, which is located one mile north of the confluence and is now part of Bighorn Canyon National Recreation Area, still exists. Relatives of people buried in the cemetery may continue to be buried there. Although the idea somehow gained currency that the cemetery and its residents were relocated prior to the impoundment of water behind the dam, this is incorrect.</description>
+            <Point id="40">
+                <coordinates>-108.208,44.884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Lewiston</name>
+            <description>Lost Springs was first inhabited in the 1880s, when it received its name from railroad workers who could not find the springs shown on survey maps of the area.  The town was incorporated in 1911, and it originally had 200 residents, most of whom worked at the nearby Rosin coal mine. After the coal mine closed around 1930, the population of Lost Springs steadily declined. By 1960, the population of the town had dropped to 5.  In 1976, both the state of Wyoming and the U.S. Bicentennial Commission designated Lost Springs as the smallest incorporated town in America; its population was then 11.</description>
+            <Point id="42">
+                <coordinates>-104.92694444444444,42.76583333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Lost Springs</name>
+            <description>Lost Springs was first inhabited in the 1880s, when it received its name from railroad workers who could not find the springs shown on survey maps of the area.  The town was incorporated in 1911, and it originally had 200 residents, most of whom worked at the nearby Rosin coal mine. After the coal mine closed around 1930, the population of Lost Springs steadily declined. By 1960, the population of the town had dropped to 5.  In 1976, both the state of Wyoming and the U.S. Bicentennial Commission designated Lost Springs as the smallest incorporated town in America; its population was then 11.</description>
+            <Point id="44">
+                <coordinates>-104.92694444444444,42.76583333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Miner's Delight</name>
+            <description>Hamilton City, or Miner's Delight as it was commonly known, was a town in Fremont County, Wyoming, United States, during the mining boom in the 19th century. Today a few buildings stand as a reminder of an era gone past in Wyoming history.</description>
+            <Point id="46">
+                <coordinates>-108.68,42.532777777777774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>New Fork</name>
+            <description>New Fork is a ghost town in Sublette County, Wyoming, United States, near Boulder. It was one of the earliest settlements in the upper Green River valley. New Fork was established in 1888 by John Vible and Louis Broderson, Danish immigrants who had arrived in the United States in 1884. They established a store along the Lander cut-off of the Oregon Trail. By 1908 a small town had grown around the store, and in 1910 Vible built a dance hall, called The Valhalla.</description>
+            <Point id="48">
+                <coordinates>-109.71527777777779,42.703611111111115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Pacific Springs</name>
+            <description>Piedmont, located southeast of Evanston, was settled about 1867 to provide railroad ties for the Union Pacific Railroad. Moses Byrne built several kilns here for producing charcoal, and Charles Guild established one of the first ranches in the Territory. Both Byrne and Guild were Mormon pioneers.</description>
+            <Point id="50">
+                <coordinates>-110.62777777777777,41.217777777777776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Piedmont</name>
+            <description>Piedmont, located southeast of Evanston, was settled about 1867 to provide railroad ties for the Union Pacific Railroad. Moses Byrne built several kilns here for producing charcoal, and Charles Guild established one of the first ranches in the Territory. Both Byrne and Guild were Mormon pioneers.</description>
+            <Point id="52">
+                <coordinates>-110.62777777777777,41.217777777777776,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>South Pass City</name>
+            <description>South Pass City is an unincorporated community in Fremont County, Wyoming, United States. It is located 2 miles south of the intersection of highways 28 and 131. The closest town is Atlantic City. The entire community is listed on the National Register of Historic Places.</description>
+            <Point id="54">
+                <coordinates>-108.80527777777777,42.471111111111114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Sherman</name>
+            <description>The town of Van Tassell is located approximately two miles west of the Nebraska-Wyoming state line on Highway 20.</description>
+            <Point id="56">
+                <coordinates>-104.0911111111111,42.66361111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Tubb Town</name>
+            <description>The town of Van Tassell is located approximately two miles west of the Nebraska-Wyoming state line on Highway 20.</description>
+            <Point id="58">
+                <coordinates>-104.0911111111111,42.66361111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Van Tassell</name>
+            <description>The town of Van Tassell is located approximately two miles west of the Nebraska-Wyoming state line on Highway 20.</description>
+            <Point id="60">
+                <coordinates>-104.0911111111111,42.66361111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Walcott</name>
+            <description>Walcott is an unincorporated community in central Carbon County, east of the city of Rawlins, the county seat of Carbon County.Although Walcott is unincorporated, it has a post office, with the ZIP code of 82335.</description>
+            <Point id="62">
+                <coordinates>-106.845,41.76111111111111,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
