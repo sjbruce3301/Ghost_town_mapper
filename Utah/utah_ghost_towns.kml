@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Adventure</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Adventure,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="2">
+                <coordinates>-113.072997,37.161924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Ajax</name>
+            <description>Demolished&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Ajax,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="4">
+                <coordinates>-112.39222,40.22583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Alunite</name>
+            <description>Neglected/barren&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Alunite,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="6">
+                <coordinates>-112.24667,38.37917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Aragonite</name>
+            <description>Neglected/restricted&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Aragonite,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="8">
+                <coordinates>-113.00278,40.74278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Argyle</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Argyle,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="10">
+                <coordinates>-111.20528,41.62694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Asay</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Asay,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="12">
+                <coordinates>-112.48194,37.58556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Bacchus</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bacchus,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="14">
+                <coordinates>-112.094,40.663,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Benmore</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Benmore,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="16">
+                <coordinates>-112.42167,40.0125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Bingham Canyon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bingham_Canyon,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="18">
+                <coordinates>-112.13056,40.55833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Black Rock</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Black_Rock,_Millard_County,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="20">
+                <coordinates>-112.95833,38.70833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Blacks Fork</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Blacks_Fork,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="22">
+                <coordinates>-110.58722,40.97139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Blue Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Blue_Creek,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="24">
+                <coordinates>-112.45694,41.86222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Bridgeport</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bridgeport,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="26">
+                <coordinates>-109.14861,40.90278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Caineville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Caineville,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="28">
+                <coordinates>-111.01889,38.33306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Castle Gate</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Castle_Gate,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="30">
+                <coordinates>-110.8675,39.72778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Castle Rock</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Castle_Rock,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="32">
+                <coordinates>-111.1875,41.12444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Castleton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Castleton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="34">
+                <coordinates>-109.31778,38.60333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Cedar Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cedar_Creek,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="36">
+                <coordinates>-113.15639,41.96444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Chicken Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Chicken_Creek,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="38">
+                <coordinates>-111.9125,39.53861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Cisco</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cisco,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="40">
+                <coordinates>-109.32056,38.97,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Clarion</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clarion,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="42">
+                <coordinates>-111.88639,39.12222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Coal City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Coal_City,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="44">
+                <coordinates>-111.01639,39.66667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Colton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Colton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="46">
+                <coordinates>-111.01306,39.8525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Connellsville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Connellsville,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="48">
+                <coordinates>-111.22056,39.615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Consumers</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Consumers,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="50">
+                <coordinates>-111.06278,39.70056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Desert Lake</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Desert_Lake,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="52">
+                <coordinates>-110.7825,39.37333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Dewey</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dewey,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="54">
+                <coordinates>-109.30167,38.81028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Diamond</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Diamond,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="56">
+                <coordinates>-112.0975,39.88167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Dividend</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dividend,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="58">
+                <coordinates>-112.06139,39.95472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Dover</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dover,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="60">
+                <coordinates>-111.89611,39.2075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Dragon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dragon,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="62">
+                <coordinates>-109.07333,39.78583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Duncan's Retreat</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Duncan%27s_Retreat,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="64">
+                <coordinates>-113.133,37.183,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Eagle City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Eagle_City,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="66">
+                <coordinates>-110.74667,38.07,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Elgin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Elgin,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="68">
+                <coordinates>-110.15,38.99333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Eureka</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Eureka,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="70">
+                <coordinates>-112.11639,39.955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Fish Springs</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fish_Springs_National_Wildlife_Refuge' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="72">
+                <coordinates>-113.36694,39.85806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Forest City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Forest_City,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="74">
+                <coordinates>-111.60278,40.52778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Fort Harmony</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fort_Harmony,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="76">
+                <coordinates>-113.24333,37.48056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Frisco</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Frisco,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="78">
+                <coordinates>-113.25889,38.45972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Fruita</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fruita,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="80">
+                <coordinates>-111.24417,38.28556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Fry Canyon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Fry_Canyon,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="82">
+                <coordinates>-110.15667,37.635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Garfield</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Garfield,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="84">
+                <coordinates>-111.93,40.67,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Giles</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Giles,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="86">
+                <coordinates>-110.84806,38.36944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Gold Hill</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gold_Hill,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="88">
+                <coordinates>-113.83056,40.16639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Golden</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Golden,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="90">
+                <coordinates>-113.4422,41.8237,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Goshute</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Goshute,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="92">
+                <coordinates>-114.0,39.87611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Grafton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grafton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="94">
+                <coordinates>-113.08,37.16722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>Grass Creek</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Grass_Creek,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="96">
+                <coordinates>-111.31528,40.99028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Greendale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Greendale,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="98">
+                <coordinates>-109.4917,40.883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Hailstone</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hailstone,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="100">
+                <coordinates>-111.41111,40.60833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Hale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hale,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="102">
+                <coordinates>-111.10806,39.78722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Hamblin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hamblin,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="104">
+                <coordinates>-113.60667,37.54389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Hardup</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hardup,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="106">
+                <coordinates>-113.15167,41.89556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Harper</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Harper,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="108">
+                <coordinates>-110.35417,39.80278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Harrisburg</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Harrisburg,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="110">
+                <coordinates>-113.39444,37.20583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Hatton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hatton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="112">
+                <coordinates>-112.45667,38.83889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Hebron</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hebron,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="114">
+                <coordinates>-113.81972,37.57667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Hiawatha</name>
+            <description>Few Families Live there.&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hiawatha,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="116">
+                <coordinates>-111.0130694,39.4843361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Hillsdale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hillsdale,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="118">
+                <coordinates>-112.38222,37.71917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Hite</name>
+            <description>Submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hite,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="120">
+                <coordinates>-110.43972,37.8075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Home of Truth</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Home_of_Truth,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="122">
+                <coordinates>-109.38389,38.06111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Iosepa</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Iosepa,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="124">
+                <coordinates>-112.73389,40.54194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Iron City</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Iron_City,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="126">
+                <coordinates>-113.45028,37.6,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Jackson</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jackson,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="128">
+                <coordinates>-113.64278,41.31667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Johnson</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Johnson,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="130">
+                <coordinates>-112.37528,37.08639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Jordanelle</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jordanelle,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="132">
+                <coordinates>-111.41111,40.60833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Keetley</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Keetley,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="134">
+                <coordinates>-111.41472,40.63556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Kelton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kelton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="136">
+                <coordinates>-113.10639,41.74611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Kimberly</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kimberly,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="138">
+                <coordinates>-112.383,38.483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Kiz</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kiz,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="140">
+                <coordinates>-110.555,39.60472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Knightsville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Knightsville,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="142">
+                <coordinates>-112.10083,39.95389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>La Plata</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/La_Plata,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="144">
+                <coordinates>-111.67972,41.44389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Lark</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lark,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="146">
+                <coordinates>-112.09639,40.525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Linwood</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Linwood,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="148">
+                <coordinates>-109.64611,40.99472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Low</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Low,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="150">
+                <coordinates>-112.94056,40.78556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Lucin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lucin,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="152">
+                <coordinates>-113.905,41.34833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Mammoth</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mammoth,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="154">
+                <coordinates>-112.12389,39.92722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Matlin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Matlin,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="156">
+                <coordinates>-113.35889,41.55944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>McCornick</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/McCornick,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="158">
+                <coordinates>-112.40833,39.21556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Mercur</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mercur,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="160">
+                <coordinates>-112.21222,40.32083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Mill Fork</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mill_Fork,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="162">
+                <coordinates>-111.30806,39.96389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Miners Basin</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Miners_Basin,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="164">
+                <coordinates>-109.2759,38.5423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Mohrland</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mohrland,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="166">
+                <coordinates>-111.01528,39.44028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Mosida</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mosida,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="168">
+                <coordinates>-111.95667,40.12722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>National</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/National,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="170">
+                <coordinates>-111.0519,39.6895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Newhouse</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Newhouse,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="172">
+                <coordinates>-113.34194,38.48111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>Northrop</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Northrop,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="174">
+                <coordinates>-113.0125,37.1625,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Paria</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Paria,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="176">
+                <coordinates>-111.94917,37.24833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>Peerless</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Peerless,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="178">
+                <coordinates>-110.91111,39.69417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Prattville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Prattville,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="180">
+                <coordinates>-112.0139,38.7742,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Rains</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Rains,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="182">
+                <coordinates>-110.58,39.64,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Rockport</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Rockport,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="184">
+                <coordinates>-111.38806,40.76111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Royal</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Royal,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="186">
+                <coordinates>-110.88028,39.74611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Russian Settlement</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Russian_Settlement,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="188">
+                <coordinates>-113.35,41.717,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Salduro</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Salduro,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="190">
+                <coordinates>-113.85639,40.735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Scranton</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Scranton,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="192">
+                <coordinates>-112.20083,40.04889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Sego</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sego,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="194">
+                <coordinates>-109.70306,39.03306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Shunesburg</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Shunesburg_Mountain' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="196">
+                <coordinates>-112.9567568,37.1561453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Silver City</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Silver_City,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="198">
+                <coordinates>-112.13,39.91,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Silver Reef</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Silver_Reef,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="200">
+                <coordinates>-113.36778,37.25278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Soldier Summit</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Soldier_Summit,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="202">
+                <coordinates>-111.08306,39.92861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Spring Canyon</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Spring_Canyon,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="204">
+                <coordinates>-110.91972,39.70389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Standardville</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Standardville,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="206">
+                <coordinates>-110.93361,39.7,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>Sulphurdale</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Sulphurdale,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="208">
+                <coordinates>-112.58194,38.56028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Terrace</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Terrace,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="210">
+                <coordinates>-113.51694,41.50361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Thistle</name>
+            <description>Submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Thistle,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="212">
+                <coordinates>-111.49833,39.99139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Tucker</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tucker,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="214">
+                <coordinates>-111.19944,39.93444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Victor</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Victor,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="216">
+                <coordinates>-110.71556,39.40139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Wahsatch</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Wahsatch,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="218">
+                <coordinates>-111.11306,41.19917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Washakie</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Washakie,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="220">
+                <coordinates>-112.21694,41.94389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Watson</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Watson,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="222">
+                <coordinates>-109.1585,39.881889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Westwater</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Westwater_Canyon' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="224">
+                <coordinates>-109.22778,38.97222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Widtsoe</name>
+            <description>Semi-abandoned&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Widtsoe,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="226">
+                <coordinates>-111.99556,37.83222,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Winter Quarters</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Winter_Quarters,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="228">
+                <coordinates>-111.18778,39.72056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Woodrow</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Woodrow,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="230">
+                <coordinates>-112.63333,39.43278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Woodside</name>
+            <description>&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Woodside,_Utah' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="232">
+                <coordinates>-110.34889,39.26556,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
