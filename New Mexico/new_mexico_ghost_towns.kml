@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="285">
+        <Placemark id="287">
+            <name>Alamocita</name>
+            <description>Submerged&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Alamocita,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="286">
+                <coordinates>-107.18056,33.30167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Aleman</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Aleman,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="288">
+                <coordinates>-107.0075,32.98972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Baldy Town</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Baldy_Town,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="290">
+                <coordinates>-105.171936833,36.623976833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Bard</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bard,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="292">
+                <coordinates>-103.24556,35.12861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Blackdom</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Blackdom,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="294">
+                <coordinates>-104.50889,33.16361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Bonanza City</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Bonanza_City,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="296">
+                <coordinates>-106.09694,35.54278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Cambray</name>
+            <description>Neglected site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cambray,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="298">
+                <coordinates>-107.32472,32.22556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Chloride</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Chloride,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="300">
+                <coordinates>-107.67778,33.33861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Clairmont</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Clairmont,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="302">
+                <coordinates>-108.77944,33.44472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Cloverdale</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cloverdale,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="304">
+                <coordinates>-108.93,31.417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Cooney</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cooney,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="306">
+                <coordinates>-108.80778,33.42278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Cuchillo</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cuchillo,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="308">
+                <coordinates>-107.36056,33.23583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Cuervo</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Cuervo,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="310">
+                <coordinates>-104.40861,35.03111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Dawson</name>
+            <description>Abandoned Site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Dawson,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="312">
+                <coordinates>-104.77472,36.66417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Elephant Butte</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Elephant_Butte,_Sierra_County,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="314">
+                <coordinates>-107.18472,33.14861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Elizabethtown</name>
+            <description>Abandoned Site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Elizabethtown,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="316">
+                <coordinates>-105.28444,36.61917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Endee</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Endee,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="318">
+                <coordinates>-103.10778,35.13778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Folsom</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Folsom,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="320">
+                <coordinates>-103.9175,36.84778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Glenrio</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Glenrio,_New_Mexico_and_Texas' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="322">
+                <coordinates>-103.04222,35.17889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Hagan</name>
+            <description>Neglected site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hagan,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="324">
+                <coordinates>-106.31389,35.31722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Hermosa</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hermosa,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="326">
+                <coordinates>-107.73,33.1575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Jicarilla</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Jicarilla,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="328">
+                <coordinates>-105.66306,33.86889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Gage</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gage,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="330">
+                <coordinates>-108.08611,32.22944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Gobernador</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Gobernador,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="332">
+                <coordinates>-107.39222,36.7025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Kelly</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Kelly,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="334">
+                <coordinates>-107.23611,34.12361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>La Belle</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/La_Belle,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="336">
+                <coordinates>-105.30056,36.76278,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Lake Valley</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lake_Valley,_Sierra_County,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="338">
+                <coordinates>-107.56778,32.71778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Lanark</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Lanark,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="340">
+                <coordinates>-106.81639,31.97,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Mentmore</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mentmore,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="342">
+                <coordinates>-108.26,35.58,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Montoya</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Montoya,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="344">
+                <coordinates>-104.06389,35.09972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Mogollon</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mogollon,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="346">
+                <coordinates>-108.79417,33.39667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Mowry City</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Mowry_City,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="348">
+                <coordinates>-107.91444,32.51417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Newkirk</name>
+            <description>Semi-abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Newkirk,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="350">
+                <coordinates>-104.26472,35.06833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Old Hachita</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Old_Hachita' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="352">
+                <coordinates>-108.43278,31.91389,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Paraje</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Paraje,_Soccoro_County,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="354">
+                <coordinates>-107.05694,33.55639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Pinos Altos</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Pinos_Altos,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="356">
+                <coordinates>-108.21861,32.87083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Red Hill</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Red_Hill,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="358">
+                <coordinates>-108.87222,34.21861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Santa Barbara</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Hatch,_New_Mexico#History' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="360">
+                <coordinates>-107.20861,32.64833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>San Marcial</name>
+            <description>Neglected site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/San_Marcial,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="362">
+                <coordinates>-106.98725,33.70007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>San Ygnacio de la Alamosa</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/San_Ygnacio_de_la_Alamosa,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="364">
+                <coordinates>-107.18056,33.30167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Santa Rita</name>
+            <description>Barren site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Santa_Rita,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="366">
+                <coordinates>-108.06083,32.80361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Shakespeare</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Shakespeare,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="368">
+                <coordinates>-108.73833,32.32556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Steins</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Steins,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="370">
+                <coordinates>-108.98944,32.22917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Twining</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Twining,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="372">
+                <coordinates>-105.45028,36.59472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Tyrone</name>
+            <description>-&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Tyrone_(ghost_town),_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="374">
+                <coordinates>-108.325417,32.641806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>White Oaks</name>
+            <description>Historic site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/White_Oaks,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="376">
+                <coordinates>-105.737306,33.74975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Zapata</name>
+            <description>Abandoned site&lt;br&gt;&lt;a href='https://en.wikipedia.org/wiki/Zapata,_New_Mexico' target='_blank'&gt;Wikipedia page&lt;/a&gt;</description>
+            <Point id="378">
+                <coordinates>-107.18056,33.30167,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
